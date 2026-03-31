@@ -1,0 +1,17 @@
+
+model:
+  name: mistralai/Mistral-7B-v0.1
+
+training:
+  batch_size: 2
+  epochs: 1
+  lr: 2e-4
+  max_length: 512
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+
+mlflow:
+  experiment_name: llm-finetune

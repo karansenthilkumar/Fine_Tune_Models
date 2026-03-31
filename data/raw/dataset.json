@@ -1,0 +1,13 @@
+
+[
+  {
+    "instruction": "Explain churn prediction",
+    "input": "",
+    "output": "Churn prediction identifies customers likely to leave a service."
+  },
+  {
+    "instruction": "What is overfitting?",
+    "input": "",
+    "output": "Overfitting occurs when a model memorizes training data."
+  }
+]
