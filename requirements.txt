@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+peft
+bitsandbytes
+accelerate
+trl
+mlflow
+fastapi
+uvicorn
+vllm
+pyyaml
+sentence-transformers
+faiss-cpu
+gradio
